@@ -1,1 +1,3 @@
-# mi-primer-repositorio
+Nombre: Ignacio
+Apellido: Bruzzesi
+Legajo: 47057
